@@ -7,7 +7,7 @@ namespace Brainco{
          * Attention greater than 35
          */
         //% block="low"
-        low = 35,
+        low = 45,
         /**
          * Attention greater than 50
          */
@@ -17,7 +17,7 @@ namespace Brainco{
          * Attention greater than 65
          */
         //% block="high"
-        high = 65
+        high = 55
     }
     
     /**
